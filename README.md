@@ -13,6 +13,7 @@ Development of a machine learning model that predict the price category of a sma
 - Most important features: RAM, Battery Power and Resolution
 - Model accuracy: 89%
 - Important correlations: PC & FC, 4G & 3G
+
 ![Mi Scores Phones](assets/Mi-Scores-Phones.png)
 
 ## 🛠 Technologies Used
