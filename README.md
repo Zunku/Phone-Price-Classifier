@@ -36,8 +36,9 @@ Development of a machine learning model that predict the price category of a sma
 
 ## 🔍 Conclusions and learnings
 
+- The more RAM a phone has, the more expensive it can be sold.
+- Low-resolution phones are usually sold cheaper.
 - Most features have no real impact on the model.
-- 325 estimators are the best for this kind of problem
 - Creating a feature for resolution give us better predictions.
 
 ## 📞 Contact me
